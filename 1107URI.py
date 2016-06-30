@@ -33,7 +33,6 @@ def main():
 		for i in range(int(tamanho[1])):
 			atual.append(int(tamanho[0]))
 			final[i] = int(final[i])
-		
 		print ContaLaser(atual,final)
 		
 
