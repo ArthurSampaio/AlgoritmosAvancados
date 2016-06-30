@@ -1,0 +1,2 @@
+# AlgoritmosAvancados
+A disciplina de Algoritmos Avançados  tem como foco principal treinar os alunos para a Olimpíada Brasileira de Programação. Este treinamento será realizado mediante a resolução de questões próprias de olimpíada. Estas questões são divididas em iterações que duram duas semanas. Em cada iteração, o aluno deve fazer um número mínimo de questões. Além disso, durante o semestre é organizada uma maratona de programação, na qual os alunos podem treinar em um ambiente real de olimpíada de programação.
