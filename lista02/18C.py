@@ -21,6 +21,3 @@ for j in range(len(stripe)-1):
 	
 print cont
 
-
-
-
