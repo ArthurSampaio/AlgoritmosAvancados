@@ -1,0 +1,6 @@
+while True:
+    try:
+        n = raw_input()
+        print Godelito(int(n))
+    except EOFError:
+        break
